@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Prakhar\\Prakhar\\android-advanced-starter-apps\\WalkMyAndroid-Starter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\29cb544e9a41ab3be846ce710f6b87abd5800f95\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
